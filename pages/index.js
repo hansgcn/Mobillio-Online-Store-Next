@@ -11,7 +11,7 @@ const Home = (props) => {
     <>
       <div className="home-container10">
         <Head>
-          <title>Mobillio Online Store</title>
+          <title>Sugbo Land</title>
           <meta property="og:title" content="Mobillio Online Store" />
         </Head>
         <div className="home-navbar1">
